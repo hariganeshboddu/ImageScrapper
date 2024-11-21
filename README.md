@@ -34,7 +34,7 @@ download_dir = downloads
 2. Update the config.ini file with the appropriate settings.
 3. Run the scraper script:
 
-`python scrapper.py`  
+`python scraper.py`  
 `Enter the search query when prompted (e.g., "blonde man") `
 
 ## Script Overview
